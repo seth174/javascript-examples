@@ -1,0 +1,30 @@
+body{
+    text-align: center;
+    background-color: skyblue;
+    color: aliceblue;
+}
+
+h1{
+    margin: 20px;
+}
+
+.timer{
+    margin-top: 50px;
+    font-size: 50px;
+}
+
+.buttons button{
+    margin: 50px;
+    font-size: 20px;
+    color: white;
+    background-color: skyblue;
+    border: 2px solid white;
+    cursor: pointer;
+    border-radius: 15px;
+    padding: 20px;
+}
+
+.buttons button:hover{
+    background-color: white;
+    color: skyblue;
+}
